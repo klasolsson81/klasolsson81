@@ -15,7 +15,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anil/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;About Me
+## &nbsp;About Me
 
 ```yaml
 name: Klas Olsson
@@ -49,7 +49,7 @@ fun_fact: I built KalasKoll for my son Alexander's birthday party with 20 kids!
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anil/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+## &nbsp;Tech Stack
 
 <div align="center">
 
@@ -89,7 +89,7 @@ fun_fact: I built KalasKoll for my son Alexander's birthday party with 20 kids!
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anil/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
+## &nbsp;Featured Projects
 
 <div align="center">
 
@@ -158,7 +158,7 @@ fun_fact: I built KalasKoll for my son Alexander's birthday party with 20 kids!
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anil/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
+## &nbsp;GitHub Stats
 
 <div align="center">
   <img width="60%" src="https://streak-stats.demolab.com/?user=klasolsson81&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
@@ -174,7 +174,7 @@ fun_fact: I built KalasKoll for my son Alexander's birthday party with 20 kids!
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anil/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> &nbsp;Contribution Snake
+## &nbsp;Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/klasolsson81/klasolsson81/output/github-contribution-grid-snake-dark.svg" />
