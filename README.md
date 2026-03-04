@@ -161,21 +161,16 @@ fun_fact: I built KalasKoll for my son Alexander's birthday party with 20 kids!
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anil/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=klasolsson81&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=klasolsson81&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=klasolsson81&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klasolsson81&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" />
-</div>
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=klasolsson81&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/klasolsson81)
-
-<br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klasolsson81&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7aa2f7&area=true&area_color=414868)](https://github.com/klasolsson81)
+
+</div>
 
 <br/>
 
