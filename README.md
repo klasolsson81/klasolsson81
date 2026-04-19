@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=230&section=header&text=Klas%20Olsson&fontSize=55&fontColor=7aa2f7&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20.NET%20%7C%20React%20%7C%20AI&descAlignY=52&descSize=18&descColor=a9b1d6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0e7ff,50:c7d2fe,100:a5b4fc&height=230&section=header&text=Klas%20Olsson&fontSize=55&fontColor=1e3a8a&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20.NET%20%7C%20React%20%7C%20AI&descAlignY=52&descSize=18&descColor=1e40af" />
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=230&section=header&text=Klas%20Olsson&fontSize=55&fontColor=7aa2f7&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20.NET%20%7C%20React%20%7C%20AI&descAlignY=52&descSize=18&descColor=a9b1d6" />
-</picture>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=230&section=header&text=Klas%20Olsson&fontSize=55&fontColor=7aa2f7&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20.NET%20%7C%20React%20%7C%20AI&descAlignY=52&descSize=18&descColor=a9b1d6)
 
 <div align="center">
 
@@ -229,8 +225,4 @@ fun_fact: >
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0e7ff,50:c7d2fe,100:a5b4fc&height=120&section=footer" />
-  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=120&section=footer" />
-</picture>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=120&section=footer)
