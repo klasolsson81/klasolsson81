@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Building+production-ready+apps+from+start+to+finish;.NET+8+%7C+React+%7C+TypeScript+%7C+Next.js+%7C+AWS;From+automotive+manufacturing+to+full-stack+dev;Clean+Architecture+%7C+AI+Integration+%7C+Agentic+Workflows&font=JetBrains+Mono&center=true&width=700&height=50&color=7aa2f7&vCenter=true&pause=1000&size=18&duration=3000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Building+production-ready+apps+from+start+to+finish;.NET+8+%7C+React+%7C+TypeScript+%7C+Next.js+%7C+AWS;From+automotive+manufacturing+to+full-stack+dev;Clean+Architecture+%7C+AI+Integration+%7C+Agentic+Workflows&font=JetBrains+Mono&center=true&width=700&height=50&color=1e40af&vCenter=true&pause=1000&size=18&duration=3000" />
-  <a href="https://github.com/klasolsson81"><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Building+production-ready+apps+from+start+to+finish;.NET+8+%7C+React+%7C+TypeScript+%7C+Next.js+%7C+AWS;From+automotive+manufacturing+to+full-stack+dev;Clean+Architecture+%7C+AI+Integration+%7C+Agentic+Workflows&font=JetBrains+Mono&center=true&width=700&height=50&color=7aa2f7&vCenter=true&pause=1000&size=18&duration=3000" /></a>
-</picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+production-ready+apps+from+start+to+finish;.NET+8+%7C+React+%7C+TypeScript+%7C+Next.js+%7C+AWS;From+automotive+manufacturing+to+full-stack+dev;Clean+Architecture+%7C+AI+Integration+%7C+Agentic+Workflows&font=JetBrains+Mono&center=true&width=700&height=50&color=7aa2f7&vCenter=true&pause=1000&size=18&duration=3000)](https://github.com/klasolsson81)
 
 <br/>
 
@@ -177,27 +173,17 @@ fun_fact: >
 
 <br/>
 
-## &nbsp;GitHub Stats
+## &nbsp;GitHub Metrics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=klasolsson81&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=klasolsson81&theme=default&hide_border=true&ring=1e40af&fire=7c3aed&currStreakLabel=1e40af" />
-    <img width="60%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=klasolsson81&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
-  </picture>
+  <img src="./metrics.svg" alt="Metrics" />
 </div>
 
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/klasolsson81">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=klasolsson81&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7aa2f7&area=true&area_color=414868" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=klasolsson81&theme=minimal&hide_border=true&bg_color=ffffff&color=1e40af&line=7c3aed&point=1e40af&area=true&area_color=e0e7ff" />
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=klasolsson81&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7aa2f7&area=true&area_color=414868" />
-  </picture>
-</a>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klasolsson81&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7aa2f7&area=true&area_color=414868)](https://github.com/klasolsson81)
 
 </div>
 

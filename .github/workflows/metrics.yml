@@ -1,0 +1,45 @@
+name: Metrics
+on:
+  # Körs dagligen 00:00 UTC
+  schedule: [{cron: "0 0 * * *"}]
+  # Körs vid push till main
+  push: {branches: ["main"]}
+  # Manuell körning från Actions-fliken
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Isometric 3D contribution calendar + language breakdown
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+
+          # Kräver klassisk PAT i secrets (METRICS_TOKEN)
+          # Fine-grained tokens funkar inte (GraphQL stöds ej)
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: klasolsson81
+
+          committer_branch: main
+          committer_message: "chore(metrics): update"
+
+          # --- Config ---
+          base: ""
+          config_timezone: Europe/Stockholm
+          config_order: isocalendar, languages
+
+          # --- Signaturen: isometrisk 3D-kontribution-kalender ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Språk-breakdown (C# visas prominent)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss, dockerfile, yaml
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 6
+
+          config_output: auto
