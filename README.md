@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+production-ready+apps+from+start+to+finish;.NET+%7C+React+%7C+TypeScript+%7C+Next.js;22+years+of+industry+experience;Clean+Architecture+%7C+AI+Integration+%7C+Cloud+Deploy&font=JetBrains+Mono&center=true&width=600&height=50&color=7aa2f7&vCenter=true&pause=1000&size=18&duration=3000)](https://github.com/klasolsson81)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+production-ready+apps+from+start+to+finish;.NET+8+%7C+React+%7C+TypeScript+%7C+Next.js+%7C+AWS;From+automotive+manufacturing+to+full-stack+dev;Clean+Architecture+%7C+AI+Integration+%7C+Agentic+Workflows&font=JetBrains+Mono&center=true&width=700&height=50&color=7aa2f7&vCenter=true&pause=1000&size=18&duration=3000)](https://github.com/klasolsson81)
 
 <br/>
 
@@ -19,32 +19,41 @@
 
 ```yaml
 name: Klas Olsson
-location: Goteborg, Sweden
-role: Full-Stack Developer & IT Consultant
+location: Göteborg, Sweden
+role: Full-Stack Developer & .NET Student
+
+background: >
+  Career changer. Spent 22 years in Swedish automotive manufacturing
+  before pivoting to software development in autumn 2025. Now shipping
+  real SaaS products while studying full-time — from database design
+  and secure .NET APIs to polished React frontends and cloud deployment.
 
 education:
   program: Systemutvecklare .NET
-  school: NBI-Handelsakademin, Goteborg
+  school: NBI-Handelsakademin, Göteborg
   graduation: 2027
 
-background: >
-  22 years of industry experience in leadership, project management
-  and quality assurance — now channeled into building modern,
-  production-ready applications from database design and secure
-  .NET APIs to polished React frontends and cloud deployment.
+currently_working_on:
+  - DOJO Future LMS — Team member, Infinet Code (Swedish YH/MYH platform)
+  - JobbPilot — AI-powered job application tracker (SaaS, solo build)
+
+currently_learning:
+  - Clean Architecture & CQRS with MediatR
+  - Pipeline Behaviors & FluentValidation
+  - ADO.NET and stored procedures
+  - AWS infrastructure (first production deployment)
+  - Agentic multi-instance Claude Code workflows
 
 focus_areas:
-  - Clean Architecture & CQRS with MediatR
-  - AI-powered applications (OpenAI, Claude, Gemini)
+  - .NET 8 + Clean Architecture (the stack I'm going deep on)
   - Full-stack TypeScript with Next.js & React
+  - AI integration (OpenAI, Claude, Gemini)
   - Security: JWT, RBAC, 2FA, encryption
-  - Cloud deployment: Azure, Vercel, Docker
+  - Cloud: Azure, AWS, Vercel, Supabase
 
-current_projects:
-  - KalasKoll.se (live) — Viral party invitation app, 60K+ LinkedIn views
-  - Yobber V2 — AI-driven recruitment platform (pre-internship)
-
-fun_fact: I built KalasKoll for my son Alexander's birthday party with 20 kids!
+fun_fact: >
+  Built KalasKoll for my son Alexander's 6th birthday party —
+  ended up hitting 60,000+ views on LinkedIn.
 ```
 
 <br/>
@@ -58,6 +67,7 @@ fun_fact: I built KalasKoll for my son Alexander's birthday party with 20 kids!
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-BA1200?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
 ### Frontend & React
@@ -65,22 +75,24 @@ fun_fact: I built KalasKoll for my son Alexander's birthday party with 20 kids!
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### Database & Cloud
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ### DevOps & Tools
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### AI & Automation
+### AI & Payments
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
@@ -97,13 +109,43 @@ fun_fact: I built KalasKoll for my son Alexander's birthday party with 20 kids!
 <tr>
 <td width="50%" valign="top">
 
+### DOJO Future LMS &nbsp;<img src="https://img.shields.io/badge/IN_PROGRESS-FF9100?style=flat-square" />
+<br/>
+<p><strong>Learning Management System for Swedish Yrkeshögskola</strong></p>
+<p>Team member at Infinet Code, building a purpose-built LMS for Swedish YH education — MYH-compliance reporting, LIA-management for internship partners, CSN attendance integration, and BankID auth. Four portals: SuperAdmin, Teacher, Student, and Company.</p>
+<p>
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+</td>
+<td width="50%" valign="top">
+
+### JobbPilot &nbsp;<img src="https://img.shields.io/badge/IN_PROGRESS-FF9100?style=flat-square" />
+<br/>
+<p><strong>AI-powered job application tracker (SaaS)</strong></p>
+<p>Complete job-search companion: kanban pipeline for applications, automated relevance scoring, Platsbanken scraping via n8n with Discord webhooks, and a civic-design UI inspired by Swedish government services. My current Clean Architecture & AWS playground.</p>
+<p>
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### <a href="https://kalaskoll.se">KalasKoll.se</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-00C853?style=flat-square" />
 <br/>
-<p><strong>Viral party invitation app for kids' birthdays</strong></p>
-<p>RSVP management, allergy tracking (GDPR-encrypted), automated email reminders, QR-code invitations, AI-generated cards & real-time database.</p>
-<p><strong>60,000+ views on LinkedIn</strong></p>
+<p><strong>Swedish SaaS for kids' birthday party invitations</strong></p>
+<p>Full RSVP management with GDPR-encrypted allergy tracking, AI-generated cards, QR-code invitations, Stripe payments, and 87 indexed pages with full SEO. Built end-to-end solo.</p>
+<p><strong>60,000+ views on LinkedIn at launch</strong></p>
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
@@ -112,43 +154,16 @@ fun_fact: I built KalasKoll for my son Alexander's birthday party with 20 kids!
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/klasolsson81/mini-ats">Yobber V2</a> &nbsp;<img src="https://img.shields.io/badge/IN_PROGRESS-FF9100?style=flat-square" />
+### Yobber V2 &nbsp;<img src="https://img.shields.io/badge/DELIVERED-00C853?style=flat-square" />
 <br/>
-<p><strong>AI-driven recruitment platform</strong></p>
-<p>Complete rebuild with AI candidate matching, Kanban pipeline, role-based access control, and integrations with email & social media. Pre-internship project with Devotion Ventures.</p>
+<p><strong>AI-driven recruitment platform rebuild</strong></p>
+<p>Complete rebuild for Devotion Ventures: AI candidate-job matching, kanban pipeline, RBAC, live video interviews via Daily.co, and i18n (Swedish/English). Shipped <strong>96/100 backlog items in ~3 weeks</strong> solo using agentic Claude Code workflows. 112 tests green at handover.</p>
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <a href="https://klasolsson.se">Portfolio AI Agent</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-00C853?style=flat-square" />
-<br/>
-<p><strong>Interactive AI-powered portfolio</strong></p>
-<p>Modern portfolio site with Three.js visuals and an AI agent that answers questions about my projects and skills in real-time.</p>
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel_AI_SDK-000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-</p>
-</td>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/klasolsson81/console-detective-web">Console Detective AI</a> &nbsp;<img src="https://img.shields.io/badge/FULLSTACK-7C3AED?style=flat-square" />
-<br/>
-<p><strong>AI-powered detective game</strong></p>
-<p>Dynamic AI storytelling with procedural clue generation. Built first as a C# console app, then modernized to full-stack with .NET 8 Web API and React frontend.</p>
-<p>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 </td>
 </tr>
