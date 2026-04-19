@@ -60,7 +60,7 @@ If the workflow fails, check:
 ## Stack for my main projects
 
 Agent context when working on linked projects:
-- **Backend**: .NET 8 + Clean Architecture, MediatR for CQRS, FluentValidation, Pipeline Behaviors
+- **Backend**: .NET 10 + Clean Architecture, MediatR for CQRS, FluentValidation, Pipeline Behaviors
 - **Frontend**: Next.js + TypeScript + Tailwind, Framer Motion for animation
 - **Database**: PostgreSQL (via Supabase or self-hosted), SQL Server on .NET projects
 - **Cloud**: Vercel for frontends, AWS for JobbPilot, Azure on some .NET deploys

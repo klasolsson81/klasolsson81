@@ -45,7 +45,7 @@ currently_learning:
   - Agentic multi-instance Claude Code workflows
 
 focus_areas:
-  - .NET 8 + Clean Architecture (the stack I'm going deep on)
+  - .NET 10 + Clean Architecture (the stack I'm going deep on)
   - Full-stack TypeScript with Next.js & React
   - AI integration (OpenAI, Claude, Gemini)
   - Security: JWT, RBAC, 2FA, encryption
@@ -64,7 +64,7 @@ fun_fact: >
 
 ### Backend & .NET
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MediatR](https://img.shields.io/badge/MediatR-BA1200?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -114,7 +114,7 @@ fun_fact: >
 <p><strong>Learning Management System for Swedish Yrkeshögskola</strong></p>
 <p>Team member at Infinet Code, building a purpose-built LMS for Swedish YH education — MYH-compliance reporting, LIA-management for internship partners, CSN attendance integration, and BankID auth. Four portals: SuperAdmin, Teacher, Student, and Company.</p>
 <p>
-<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -128,7 +128,7 @@ fun_fact: >
 <p><strong>AI-powered job application tracker (SaaS)</strong></p>
 <p>Complete job-search companion: kanban pipeline for applications, automated relevance scoring, Platsbanken scraping via n8n with Discord webhooks, and a civic-design UI inspired by Swedish government services. My current Clean Architecture & AWS playground.</p>
 <p>
-<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
