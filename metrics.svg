@@ -27,13 +27,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 65 days
+                            Current streak 66 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 65 days
+                            Best streak 66 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~21.54
+                            Average per day at ~21.51
                         </div>
                     </section>
                 </div>
@@ -2001,6 +2001,11 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.557692307692308 0,2.557692307692308 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.557692307692308 1.7,3.557692307692308 z"/>
                             </g>
+                            <g transform="translate(-1.7, 6.480769230769231)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.519230769230769 0,1.5192307692307692 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5192307692307692 1.7,2.519230769230769 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2015,18 +2020,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 20.7mb of code in 4115 edited files across 912 commits</small>
+                <small>estimation from 21.4mb of code in 4410 edited files across 919 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.28581815697623" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="174.28581815697623" y="0" width="118.99665554511738" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="293.2824737020936" y="0" width="96.45983967470717" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="389.74231337680084" y="0" width="48.372802748273784" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="438.1151161250746" y="0" width="14.73265235067657" height="8" fill="#9400ff"/>
-                    <rect mask="url(#languages-bar)" x="452.8477684757512" y="0" width="7.152231524248846" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="181.6727943980565" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="181.6727943980565" y="0" width="115.81642397117551" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="297.489218369232" y="0" width="86.66167403268614" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="384.15089240191816" y="0" width="56.187239208005295" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="440.33813160992344" y="0" width="13.236143870411178" height="8" fill="#9400ff"/>
+                    <rect mask="url(#languages-bar)" x="453.5742754803346" y="0" width="6.42572451966536" height="8" fill="#e38c00"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2038,7 +2043,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>37.89%</div>
+                                <div>39.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2049,7 +2054,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>20.97%</div>
+                                <div>18.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2060,7 +2065,7 @@
                                 ASP.NET
                             </div>
                             <small>
-                                <div>3.2%</div>
+                                <div>2.88%</div>
                             </small>
                         </div>
                     </section>
@@ -2073,7 +2078,7 @@
                                 TSX
                             </div>
                             <small>
-                                <div>25.87%</div>
+                                <div>25.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2084,7 +2089,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>10.52%</div>
+                                <div>12.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2095,7 +2100,7 @@
                                 TSQL
                             </div>
                             <small>
-                                <div>1.55%</div>
+                                <div>1.4%</div>
                             </small>
                         </div>
                     </section>
