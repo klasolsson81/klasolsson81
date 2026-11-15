@@ -1,214 +1,151 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=230&section=header&text=Klas%20Olsson&fontSize=55&fontColor=7aa2f7&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20.NET%20%7C%20React%20%7C%20AI&descAlignY=52&descSize=18&descColor=a9b1d6)
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+production-ready+apps+from+start+to+finish;.NET+8+%7C+React+%7C+TypeScript+%7C+Next.js+%7C+AWS;From+automotive+manufacturing+to+full-stack+dev;Clean+Architecture+%7C+AI+Integration+%7C+Agentic+Workflows&font=JetBrains+Mono&center=true&width=700&height=50&color=7aa2f7&vCenter=true&pause=1000&size=18&duration=3000)](https://github.com/klasolsson81)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/klasolsson.se-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://klasolsson.se)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/klasolsson81)
-[![Email](https://img.shields.io/badge/Email-bb9af7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klasolsson81@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=klasolsson81&color=7aa2f7&style=for-the-badge&label=VISITORS)](https://github.com/klasolsson81)
-
-</div>
-
-<br/>
-
-## &nbsp;About Me
-
-```yaml
-name: Klas Olsson
-location: Göteborg, Sweden
-role: Full-Stack Developer & .NET Student
-
-background: >
-  Career changer. Spent 22 years in Swedish automotive manufacturing
-  before pivoting to software development in autumn 2025. Now shipping
-  real SaaS products while studying full-time — from database design
-  and secure .NET APIs to polished React frontends and cloud deployment.
-
-education:
-  program: Systemutvecklare .NET
-  school: NBI-Handelsakademin, Göteborg
-  graduation: 2027
-
-currently_working_on:
-  - DOJO Future LMS — Team member, Infinet Code (Swedish YH/MYH platform)
-  - JobbPilot — AI-powered job application tracker (SaaS, solo build)
-
-currently_learning:
-  - Clean Architecture & CQRS with MediatR
-  - Pipeline Behaviors & FluentValidation
-  - ADO.NET and stored procedures
-  - AWS infrastructure (first production deployment)
-  - Agentic multi-instance Claude Code workflows
-
-focus_areas:
-  - .NET 10 + Clean Architecture (the stack I'm going deep on)
-  - Full-stack TypeScript with Next.js & React
-  - AI integration (OpenAI, Claude, Gemini)
-  - Security: JWT, RBAC, 2FA, encryption
-  - Cloud: Azure, AWS, Vercel, Supabase
-
-fun_fact: >
-  Built KalasKoll for my son Alexander's 6th birthday party —
-  ended up hitting 60,000+ views on LinkedIn.
-```
-
-<br/>
-
-## &nbsp;Tech Stack
-
-<div align="center">
-
-### Backend & .NET
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MediatR](https://img.shields.io/badge/MediatR-BA1200?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-
-### Frontend & React
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-### Database & Cloud
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### AI & Payments
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-
-</div>
-
-<br/>
-
-## &nbsp;Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### DOJO Future LMS &nbsp;<img src="https://img.shields.io/badge/IN_PROGRESS-FF9100?style=flat-square" />
-<br/>
-<p><strong>Learning Management System for Swedish Yrkeshögskola</strong></p>
-<p>Team member at Infinet Code, building a purpose-built LMS for Swedish YH education — MYH-compliance reporting, LIA-management for internship partners, CSN attendance integration, and BankID auth. Four portals: SuperAdmin, Teacher, Student, and Company.</p>
-<p>
-<img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<p align="center">
+  <a href="assets/hero-wide-dark.svg#gh-dark-mode-only"><picture><source media="(min-width: 1240px)" srcset="assets/hero-wide-dark.svg"><source media="(min-width: 880px)" srcset="assets/hero-medium-dark.svg"><img src="assets/hero-narrow-dark.svg" width="846" alt="Klas Olsson. Full-stack developer in Göteborg, Sweden: .NET, C#, React and the infrastructure underneath. Now: technical lead on internship at Yobber. Background: more than 20 years in manufacturing. Open to developer roles and consulting."></picture></a>
+  <a href="assets/hero-wide-light.svg#gh-light-mode-only"><picture><source media="(min-width: 1240px)" srcset="assets/hero-wide-light.svg"><source media="(min-width: 880px)" srcset="assets/hero-medium-light.svg"><img src="assets/hero-narrow-light.svg" width="846" alt="Klas Olsson. Full-stack developer in Göteborg, Sweden: .NET, C#, React and the infrastructure underneath. Now: technical lead on internship at Yobber. Background: more than 20 years in manufacturing. Open to developer roles and consulting."></picture></a>
 </p>
-</td>
-<td width="50%" valign="top">
 
-### JobbPilot &nbsp;<img src="https://img.shields.io/badge/IN_PROGRESS-FF9100?style=flat-square" />
-<br/>
-<p><strong>AI-powered job application tracker (SaaS)</strong></p>
-<p>Complete job-search companion: kanban pipeline for applications, automated relevance scoring, Platsbanken scraping via n8n with Discord webhooks, and a civic-design UI inspired by Swedish government services. My current Clean Architecture & AWS playground.</p>
-<p>
-<img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<p align="center">
+  <a href="https://jobbliggaren.se"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-jobbliggaren-dark.svg"><img src="assets/pill-jobbliggaren-light.svg" width="276" alt="jobbliggaren.se, live: my own product, a job search tracker"></picture></a>
+  <a href="https://yobber.se"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-yobber-dark.svg"><img src="assets/pill-yobber-light.svg" width="276" alt="yobber.se, live: a recruitment platform I work on as an intern"></picture></a>
+  <a href="https://kalaskoll.se"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-kalaskoll-dark.svg"><img src="assets/pill-kalaskoll-light.svg" width="276" alt="kalaskoll.se, live: my own product, party invitations"></picture></a>
 </p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### <a href="https://kalaskoll.se">KalasKoll.se</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-00C853?style=flat-square" />
-<br/>
-<p><strong>Swedish SaaS for kids' birthday party invitations</strong></p>
-<p>Full RSVP management with GDPR-encrypted allergy tracking, AI-generated cards, QR-code invitations, Stripe payments, and 87 indexed pages with full SEO. Built end-to-end solo.</p>
-<p><strong>60,000+ views on LinkedIn at launch</strong></p>
+**Based in Göteborg. Open to developer roles and consulting work, on site in the Göteborg area or remote anywhere in Sweden.** [klasolsson.se](https://klasolsson.se) · [LinkedIn](https://www.linkedin.com/in/klasolsson81) · [klasolsson81@gmail.com](mailto:klasolsson81@gmail.com)
+
+I build products end to end: the data model, the API, the interface and the server they run on. Before software I spent more than 20 years in automotive manufacturing as an operator, team lead and project lead. It taught me to care about process and about things that keep running. I study .NET systems development at NBI/Handelsakademin in Göteborg (2025–2027). My internship is at Yobber, where I work as a full-stack developer and technical lead.
+
+## `01` Featured work
+
+### Jobbliggaren
+
 <p>
-<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+  <picture>
+    <source media="(min-width: 1240px)" srcset="assets/showcase/jobbliggaren.webp"><source media="(min-width: 880px)" srcset="assets/showcase/jobbliggaren-medium.webp">
+    <img src="assets/showcase/jobbliggaren-narrow.webp" width="846" alt="Jobbliggaren, signed in with a test account: the overview, with the list of what needs action today.">
+  </picture>
 </p>
-</td>
-<td width="50%" valign="top">
 
-### Yobber V2 &nbsp;<img src="https://img.shields.io/badge/DELIVERED-00C853?style=flat-square" />
-<br/>
-<p><strong>AI-driven recruitment platform rebuild</strong></p>
-<p>Complete rebuild for Devotion Ventures: AI candidate-job matching, kanban pipeline, RBAC, live video interviews via Daily.co, and i18n (Swedish/English). Shipped <strong>96/100 backlog items in ~3 weeks</strong> solo using agentic Claude Code workflows. 112 tests green at handover.</p>
+**A Swedish job search and application tracker, built to work like a public service.**
+[jobbliggaren.se](https://jobbliggaren.se) · [Code](https://github.com/klasolsson81/jobbliggaren) · [Decision records](https://github.com/klasolsson81/jobbliggaren/tree/main/docs/decisions) · [Threat model](https://github.com/klasolsson81/jobbliggaren/blob/main/docs/threat-model.md)
+
+My own product. I build and run it alone, working with AI coding agents; the process is described below the numbers. It is for job seekers in Sweden, who are expected to keep track of what they apply for and report it every month. You search the ads on Platsbanken (Sweden's public job board), track each application from draft to offer and follow companies. The CV review quotes the text it is judging. It is in early testing with real users, and registration is open.
+
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+  <picture>
+    <source media="(min-width: 1240px)" srcset="assets/showcase/jobbliggaren-detail.webp"><source media="(min-width: 880px)" srcset="assets/showcase/jobbliggaren-detail-medium.webp">
+    <img src="assets/showcase/jobbliggaren-detail-narrow.webp" width="846" alt="The CV review in Jobbliggaren: a criterion with its verdict and the quoted CV text the verdict rests on.">
+  </picture>
 </p>
-</td>
-</tr>
-</table>
 
-</div>
+- **Product.** Plain Swedish, named grades instead of scores, and every verdict with its evidence. Each match gets a grade from Grundmatch to Toppmatch, with the matched and missing skills listed. Matching and CV review are [rule engines](https://github.com/klasolsson81/jobbliggaren/blob/main/docs/decisions/0076-match-sort-deterministic-matching-engine-activation.md). The product makes no LLM calls, so the same input always gives the same verdict.
+- **Architecture.** Built on .NET 10 with Clean Architecture, DDD and CQRS. The [layer rules are tests](https://github.com/klasolsson81/jobbliggaren/tree/main/tests/Jobbliggaren.Architecture.Tests) that fail the build. Next.js 16 and React 19 in front, PostgreSQL 18 and Redis behind. Hangfire runs [25 background jobs](https://github.com/klasolsson81/jobbliggaren/blob/main/src/Jobbliggaren.Application/BackgroundJobs/RecurringJobIds.cs) on a schedule.
+- **Operations.** It started on AWS and moved off to fit a student budget ([ADR 0050](https://github.com/klasolsson81/jobbliggaren/blob/main/docs/decisions/0050-deployment-migration-aws-exit-hetzner.md), in Swedish). It now runs on one rented [server in Germany](https://github.com/klasolsson81/jobbliggaren#security-and-privacy) that I set up, hardened and maintain. [Nine Compose services](https://github.com/klasolsson81/jobbliggaren/blob/main/deploy/docker-compose.yml) (eight long-running and a one-shot migration) run behind a default-drop firewall, and only Caddy is exposed.
+- **Data.** Encrypted backups go off site every night. The [restore commands run in CI](https://github.com/klasolsson81/jobbliggaren/blob/main/docs/runbooks/backup-restore.md) against real PostgreSQL; a full restore from a production backup has not been drilled yet. [CVs, cover letters and notes are encrypted per user](https://github.com/klasolsson81/jobbliggaren#security-and-privacy), and deleting an account destroys its key.
+- **Delivery.** Every release is built, scanned, signed and sealed into one record. The server pulls that record and verifies it before anything starts. CI holds no credential for the server.
 
-<br/>
+<p align="center">
+  <a href="assets/pipeline-wide-dark.svg#gh-dark-mode-only"><picture><source media="(min-width: 1240px)" srcset="assets/pipeline-wide-dark.svg"><source media="(min-width: 880px)" srcset="assets/pipeline-medium-dark.svg"><img src="assets/pipeline-narrow-dark.svg" width="846" alt="Figure 1, from merge to production. A pull request passes CI and the review agents and is squashed to main. GitHub Actions, on an hourly schedule: five images are built from one commit, scanned with Trivy, attested, and sealed into one immutable release record. The server, hourly: pulls the record, verifies signatures and the database schema, waits for healthy containers and writes a receipt. To roll back, pin an earlier record."></picture></a>
+  <a href="assets/pipeline-wide-light.svg#gh-light-mode-only"><picture><source media="(min-width: 1240px)" srcset="assets/pipeline-wide-light.svg"><source media="(min-width: 880px)" srcset="assets/pipeline-medium-light.svg"><img src="assets/pipeline-narrow-light.svg" width="846" alt="Figure 1, from merge to production. A pull request passes CI and the review agents and is squashed to main. GitHub Actions, on an hourly schedule: five images are built from one commit, scanned with Trivy, attested, and sealed into one immutable release record. The server, hourly: pulls the record, verifies signatures and the database schema, waits for healthy containers and writes a receipt. To roll back, pin an earlier record."></picture></a>
+</p>
 
-## &nbsp;GitHub Metrics
+<details>
+<summary>Fig. 1 in words, with the files that implement it</summary>
 
-<div align="center">
-  <img src="./metrics.svg" alt="Metrics" />
-</div>
+1. A pull request passes the required CI checks and the review agents, and is squashed onto a linear `main`.
+2. [`release-images.yml`](https://github.com/klasolsson81/jobbliggaren/blob/main/.github/workflows/release-images.yml) is scheduled hourly, but GitHub starts only a few of those runs a day. It builds five images (api, worker, migrate, web, caddy) from one pinned commit, scans each with Trivy, pushes them and attests their build provenance.
+3. Only when all five succeed does it write one immutable release record. The record names the five digests, the deployment files and the migrations, and is attested too ([ADR 0149](https://github.com/klasolsson81/jobbliggaren/blob/main/docs/decisions/0149-a-release-is-one-verified-record-the-channel-moves-only-after-the-whole-set-and-the-box-applies-exactly-what-it-names.md)).
+4. On the server a systemd timer runs hourly. [`jobbliggaren-reconcile.sh`](https://github.com/klasolsson81/jobbliggaren/blob/main/deploy/systemd/jobbliggaren-reconcile.sh) verifies the record's signature, checks that each image was built from the record's commit, runs the schema gate, starts the containers, waits for them to be healthy and writes a receipt.
+5. A failed run writes no receipt and puts the local image tags back as it found them. Running containers are not rolled back automatically. To roll back, pin an earlier record and run the same systemd unit. That rolls back code, not schema: the schema gate refuses an older release that does not know a migration already applied.
+6. A release that changes the Compose file waits until the server's checkout is advanced outside the timer. An agent session does that under a standing go-ahead I gave; release pins and anything else on the server need my explicit go-ahead ([ADR 0154](https://github.com/klasolsson81/jobbliggaren/blob/main/docs/decisions/0154-one-box-one-domain-every-merged-release-goes-live-on-jobbliggaren-se.md)).
 
-<br/>
+</details>
 
-<div align="center">
+<p align="center">
+  <a href="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/jobbliggaren-stats-wide-dark.svg#gh-dark-mode-only"><picture><source media="(min-width: 1240px)" srcset="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/jobbliggaren-stats-wide-dark.svg"><source media="(min-width: 880px)" srcset="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/jobbliggaren-stats-medium-dark.svg"><img src="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/jobbliggaren-stats-narrow-dark.svg" width="846" alt="Jobbliggaren in numbers. Commits on main, merged pull requests and published decision records are read daily from the GitHub API; the test count is from the CI run of 2026-10-09. The values are in the sentence below."></picture></a>
+  <a href="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/jobbliggaren-stats-wide-light.svg#gh-light-mode-only"><picture><source media="(min-width: 1240px)" srcset="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/jobbliggaren-stats-wide-light.svg"><source media="(min-width: 880px)" srcset="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/jobbliggaren-stats-medium-light.svg"><img src="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/jobbliggaren-stats-narrow-light.svg" width="846" alt="Jobbliggaren in numbers. Commits on main, merged pull requests and published decision records are read daily from the GitHub API; the test count is from the CI run of 2026-10-09. The values are in the sentence below."></picture></a>
+</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klasolsson81&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7aa2f7&area=true&area_color=414868)](https://github.com/klasolsson81)
+As of November 2026 the repository has about 1,700 commits on main, about 1,200 merged pull requests and 120 published decision records, and 32,892 tests passed in the CI run of 9 October 2026. Those numbers come from one developer working with AI coding agents under written rules. I set the scope and the direction of the architecture and own the rules. Within those rules the agents make and record some decisions themselves (a handful of the decision records are theirs alone), and they can amend the rules through the same gate as any other change.
 
-</div>
+A change merges when CI and the architecture tests pass and the reviewer agents assigned to it approve. I read the diff after it lands, and I run the server. Dependency updates merge when CI and a vulnerability gate pass. Pull requests have been required since late May 2026 ([ADR 0065](https://github.com/klasolsson81/jobbliggaren/blob/main/docs/decisions/0065-pr-flow-restoration-with-ci-gate.md)) and auto-merge on the agents' sign-off since June; the first 450 or so commits went straight to main. The repository's [README](https://github.com/klasolsson81/jobbliggaren#how-it-is-built) describes the process.
 
-<br/>
+`.NET 10` `C# 14` <code>EF&nbsp;Core</code> <code>PostgreSQL&nbsp;18</code> `Redis` `Hangfire` <code>Next.js&nbsp;16</code> <code>React&nbsp;19</code> `TypeScript` `Tailwind` <code>Docker&nbsp;Compose</code> `Caddy` <code>GitHub&nbsp;Actions</code>
 
-## &nbsp;Contribution Snake
+### Yobber
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/klasolsson81/klasolsson81/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/klasolsson81/klasolsson81/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/klasolsson81/klasolsson81/output/github-contribution-grid-snake.svg" />
-</picture>
+<p>
+  <picture>
+    <source media="(min-width: 1240px)" srcset="assets/showcase/yobber.webp"><source media="(min-width: 880px)" srcset="assets/showcase/yobber-medium.webp">
+    <img src="assets/showcase/yobber-narrow.webp" width="846" alt="Yobber's public candidate view, the page where job seekers start.">
+  </picture>
+</p>
 
-<br/><br/>
+**A Swedish recruitment platform: a job board and applicant tracking in one, with a branded careers page for each employer.**
+[yobber.se](https://yobber.se) · the platform runs at [nya.yobber.se](https://nya.yobber.se)
 
-<div align="center">
+Not my product. I work on it as a full-stack developer and technical lead, on an internship (LIA, a work placement within my degree) that started in August 2026. The code is private and the employer side is not mine to show, so the image shows the public candidate view.
 
-### Let's connect! I'm always open to interesting projects and collaborations.
+- Retired the legacy platform's infrastructure after the new platform took over.
+- Responsible for architecture, security and GDPR in the personality-test module.
+- Wrote most of the database test suite (pgTAP) from September, and moved type checks, unit tests, database tests and edge-function checks into a CI pipeline in November.
+- Wrote the local development setup and onboarded new developers.
+- From 31 August to 15 November 2026 I merged 173 pull requests to main and promoted main to production 212 times; each promotion deploys. The counts are high because the work is agent-assisted and lands in small steps.
 
-<br/>
+<code>React&nbsp;18</code> `TypeScript` `Vite` `Supabase` <code>PostgreSQL&nbsp;RLS</code> <code>Edge&nbsp;Functions&nbsp;(Deno)</code> `pgTAP` `Vitest` `Vercel`
 
-[![Portfolio](https://img.shields.io/badge/klasolsson.se-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://klasolsson.se)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/klasolsson81)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klasolsson81)
+### KalasKoll
 
-</div>
+<p>
+  <picture>
+    <source media="(min-width: 1240px)" srcset="assets/showcase/kalaskoll.webp"><source media="(min-width: 880px)" srcset="assets/showcase/kalaskoll-medium.webp">
+    <img src="assets/showcase/kalaskoll-narrow.webp" width="846" alt="KalasKoll with demo data: an illustrated jungle invitation card with a QR code for the RSVP.">
+  </picture>
+</p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=120&section=footer)
+**Invitations for children's birthday parties, with RSVP by QR code.**
+[kalaskoll.se](https://kalaskoll.se) · the code is private
+
+Built for my own child's party, then opened as a small service for other parents. Solo build.
+
+- Invitation cards come from templates or from an image model. If one image provider fails, the next takes over.
+- Guests answer on their phone. Allergy information is encrypted with AES-256-GCM and deleted on a schedule after the party.
+- Stripe payments for the paid tier, and rate limiting. Unit and end-to-end tests run in CI.
+
+<code>Next.js&nbsp;16</code> <code>React&nbsp;19</code> `TypeScript` `Supabase` `Stripe` <code>Tailwind&nbsp;4</code> `Vitest` `Playwright` `Vercel`
+
+## `02` Also built
+
+<p align="center">
+  <a href="assets/showcase/also-dark.webp#gh-dark-mode-only"><picture><source media="(min-width: 1240px)" srcset="assets/showcase/also-dark.webp"><source media="(min-width: 880px)" srcset="assets/showcase/also-medium-dark.webp"><img src="assets/showcase/also-narrow-dark.webp" width="846" alt="Four smaller projects: mini-ats, Console Detective, StudyTracker and Sky High Adventures."></picture></a>
+  <a href="assets/showcase/also-light.webp#gh-light-mode-only"><picture><source media="(min-width: 1240px)" srcset="assets/showcase/also-light.webp"><source media="(min-width: 880px)" srcset="assets/showcase/also-medium-light.webp"><img src="assets/showcase/also-narrow-light.webp" width="846" alt="Four smaller projects: mini-ats, Console Detective, StudyTracker and Sky High Adventures."></picture></a>
+</p>
+
+- **[mini-ats](https://github.com/klasolsson81/mini-ats)** · Multi-tenant applicant tracking with row-level security, a kanban board and an audit log. Next.js and Supabase. Runs at [mini-ats-jade.vercel.app](https://mini-ats-jade.vercel.app).
+- **[Console Detective](https://github.com/klasolsson81/console-detective-web)** · A noir detective game with AI-generated cases. React client on a .NET 8 API. Runs at [console-detective-web.vercel.app](https://console-detective-web.vercel.app).
+- **[StudyTracker](https://github.com/klasolsson81/StudyTracker)** · A Web API where students log study sessions and how motivated they felt before and after. Clean Architecture in .NET 10 with CQRS, MediatR, EF Core and JWT.
+- **[Sky High Adventures](https://github.com/klasolsson81/sky-adventure-game)** · An endless-runner browser game in React and Phaser 3. Runs at [skyadventuregame.klasolsson.se](https://skyadventuregame.klasolsson.se).
+
+## `03` Toolbox
+
+| Area | What I use |
+|:---|:---|
+| **Backend** | `C#` <code>.NET&nbsp;10</code> <code>ASP.NET&nbsp;Core</code> <code>EF&nbsp;Core</code> `CQRS` `FluentValidation` `Hangfire` |
+| **Frontend** | `TypeScript` `React` `Next.js` `Tailwind` `shadcn/ui` <code>React&nbsp;Hook&nbsp;Form</code> `Zod` |
+| **Data** | `PostgreSQL` <code>SQL&nbsp;Server</code> `Redis` `Supabase` <code>row&#8209;level&nbsp;security</code> |
+| **Operations** | `Linux` `Docker` `Caddy` <code>GitHub&nbsp;Actions</code> `Vercel` |
+| **Quality** | <code>Clean&nbsp;Architecture</code> `DDD` `xUnit` `Testcontainers` `Vitest` `Playwright` <code>decision&nbsp;records</code> |
+| **AI** | <code>Claude&nbsp;API</code> <code>OpenAI&nbsp;API</code> <code>tool&nbsp;calling</code> <code>Claude&nbsp;Code</code> `Codex` |
+
+## `04` Activity
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/activity-wide-dark.svg#gh-dark-mode-only"><picture><source media="(min-width: 1240px)" srcset="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/activity-wide-dark.svg"><source media="(min-width: 880px)" srcset="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/activity-medium-dark.svg"><img src="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/activity-narrow-dark.svg" width="846" alt="Figure 2, GitHub activity over the last twelve months: total contributions, active days, longest run of days, and contributions per week as bars. Updated daily; the values are in the sentences below."></picture></a>
+  <a href="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/activity-wide-light.svg#gh-light-mode-only"><picture><source media="(min-width: 1240px)" srcset="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/activity-wide-light.svg"><source media="(min-width: 880px)" srcset="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/activity-medium-light.svg"><img src="https://raw.githubusercontent.com/klasolsson81/klasolsson81/generated/activity-narrow-light.svg" width="846" alt="Figure 2, GitHub activity over the last twelve months: total contributions, active days, longest run of days, and contributions per week as bars. Updated daily; the values are in the sentences below."></picture></a>
+</p>
+
+More than 8,000 contributions in the last twelve months, on about four days out of five. The longest unbroken run was about ten weeks. Most of them come from the agent-assisted work on Jobbliggaren and Yobber described above.
+
+## `05` Contact
+
+Developer roles and consulting, on site in the Göteborg area or remote anywhere in Sweden: [klasolsson.se](https://klasolsson.se) · [LinkedIn](https://www.linkedin.com/in/klasolsson81) · [klasolsson81@gmail.com](mailto:klasolsson81@gmail.com)
+
+<sub>Every graphic on this page is built from this repository. Text is outlined at build time, so no font loads in your browser. Each SVG drawing has a dark and a light variant, and two are redrawn daily from the GitHub API. The code is in <a href="scripts">scripts/</a>, and the figures on this page, with the query and date for each, are in <a href="content/facts.json">content/facts.json</a>.</sub>

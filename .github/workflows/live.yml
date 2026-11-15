@@ -1,0 +1,56 @@
+name: Live images
+
+# Redraws the two images that carry live numbers (activity, Jobbliggaren stats)
+# and publishes them to the `generated` branch as a single commit, so `main`
+# holds only human changes. No third-party actions besides checkout, no npm
+# install, and the default token is the only credential.
+
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: live
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: write # push the generated branch
+      actions: write # re-enable this workflow; GitHub pauses schedules in quiet repositories
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      # Exits non-zero before writing anything if a request fails, so the
+      # last good images stay published.
+      - name: Render
+        run: |
+          node --version
+          node scripts/render-live.mjs --out dist
+
+      - name: Publish to the generated branch
+        run: |
+          cd dist
+          git init -q -b generated
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Daily images"
+          remote="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git fetch -q "$remote" generated 2>/dev/null && [ "$(git rev-parse 'FETCH_HEAD^{tree}')" = "$(git rev-parse 'HEAD^{tree}')" ]; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git push -q -f "$remote" generated
+
+      - name: Keep the schedule enabled
+        run: gh api -X PUT "repos/${GITHUB_REPOSITORY}/actions/workflows/live.yml/enable"
