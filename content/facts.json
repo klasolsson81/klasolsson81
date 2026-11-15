@@ -1,0 +1,41 @@
+{
+  "jobbliggaren": {
+    "testsPassing": {
+      "value": 32892,
+      "asOf": "2026-10-09",
+      "source": "klasolsson81/jobbliggaren README.md, section Quality and CI: 26,283 backend tests and 6,609 Vitest tests in the CI run of that date"
+    },
+    "recurringJobs": {
+      "value": 25,
+      "asOf": "2026-11-15",
+      "source": "src/Jobbliggaren.Application/BackgroundJobs/RecurringJobIds.cs"
+    },
+    "containers": {
+      "value": 9,
+      "asOf": "2026-11-15",
+      "source": "deploy/docker-compose.yml, default profile: caddy, web, api, worker, migrate, postgres, redis, redis-volatile, seq. A tenth service, migrate-rewrap, is in the ops profile and does not start with up."
+    },
+    "commitsBeforePullRequests": {
+      "value": 455,
+      "asOf": "2026-11-15",
+      "source": "commits on main without a pull request number, April to early June 2026, before ADR 0065 restored the pull-request flow on 2026-05-25"
+    }
+  },
+  "yobber": {
+    "pullRequestsMergedToMain": {
+      "value": 173,
+      "asOf": "2026-11-15",
+      "source": "GitHub search API: pull requests I authored and merged with base main, since 2026-08-31"
+    },
+    "mergesToProduction": {
+      "value": 212,
+      "asOf": "2026-11-15",
+      "source": "GitHub search API: pull requests I authored and merged to the production branch, since 2026-08-31"
+    },
+    "ciSetUp": {
+      "value": "2026-11",
+      "asOf": "2026-11-15",
+      "source": "git log of the workflow files in the private repository"
+    }
+  }
+}
